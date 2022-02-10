@@ -14,4 +14,5 @@ In this session, you will learn more about Cloud Foundry. In particular, you wil
 
 Detailed steps description for the session: [Mini CodeJam](/exercises/basic-codeJam)
 
-#test
+#test 1
+# test 2
