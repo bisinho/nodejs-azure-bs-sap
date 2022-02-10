@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-nodejs
+- name: cf-nodejs-simpleapp-deployed-557463
   memory: 192M
   instances: 1
   random-route: false
