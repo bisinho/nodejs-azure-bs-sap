@@ -13,3 +13,5 @@ In this session, you will learn more about Cloud Foundry. In particular, you wil
  - some Cloud Foundry core concepts like pushing an app, binding a service, scaling the app, etc.
 
 Detailed steps description for the session: [Mini CodeJam](/exercises/basic-codeJam)
+
+#test
